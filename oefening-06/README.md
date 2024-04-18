@@ -20,3 +20,7 @@ Tijdens dit labo leer je
 2. Gebruik de endpoint /users.
 3. Voeg een Authorization header toe met een Bearer Token.
 4. Voer het verzoek uit en bekijk de lijst met gebruikers.
+
+users is gewoon leeg
+
+[]
